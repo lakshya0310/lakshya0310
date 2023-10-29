@@ -7,7 +7,7 @@
 * i occasionally sketch paint , and post on [DeviantArt](https://www.deviantart.com/sigmalaksh)
 
 
-## projects i'm working on
+## currently i'm working on
 
 
 ## things i did previously
