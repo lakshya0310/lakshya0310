@@ -11,7 +11,7 @@
 
 
 ## things i did previously
-* completed several tasks under openwisp in GCI'18
+* completed several tasks under openwisp in gci'18
 
 ## streak 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakshya0310&theme=dark)](https://git.io/streak-stats) &nbsp;
