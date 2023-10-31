@@ -13,8 +13,8 @@
 ## things i did previously
 * completed several tasks under openwisp in gci'18
 
-## streak and my most used languages
-
+## my github stats
+<a href="http://www.github.com/lakshya0310"><img src="https://github-readme-stats.vercel.app/api?username=lakshya0310&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="lakshya0310's github stats" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=lakshya0310&theme=calm&hide_border=true&card_width=450)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya0310&theme=calm&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
