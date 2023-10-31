@@ -9,7 +9,7 @@
 
 ## currently i'm working on
 
-## Preparing for GSoC 2024
+## preparing for gsoc 2024
 * i'm actively preparing for google summer of code 2024 by learning java and working on relevant projects.
 
 
