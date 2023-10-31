@@ -10,7 +10,7 @@
 ## currently i'm working on
 
 ## Preparing for GSoC 2024
-* i'm actively preparing for google summer of code (GSoC) 2024 by learning java and working on relevant projects.
+* i'm actively preparing for google summer of code 2024 by learning java and working on relevant projects.
 
 
 ## things i did previously
