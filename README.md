@@ -13,10 +13,7 @@
 ## things i did previously
 * completed several tasks under openwisp in gci'18
 
-## streak 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakshya0310&theme=dark)](https://git.io/streak-stats) &nbsp;
-
-### 💻 Performance & Stats 🔥
+### streak and top languages
 [![GitHub Streak](https://streak-stats.demolab.com?user=lakshya0310&theme=calm&hide_border=true&card_width=450)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya0310&theme=calm&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
