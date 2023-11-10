@@ -4,7 +4,7 @@
 
 * freshman at international institute of information technology pursuing electronics and communication btech + ms
 * i've youtube channel too [Art-Time with Lakshya](https://youtube.com/@ArtTimewithLakshya)
-* i occasionally sketch paint , and post on [DeviantArt](https://www.deviantart.com/sigmalaksh)
+* i occasionally sketch , paint , and post on [DeviantArt](https://www.deviantart.com/sigmalaksh)
 
 
 ## currently i'm working on
