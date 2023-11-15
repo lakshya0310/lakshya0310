@@ -1,4 +1,4 @@
-## hello, this is lakshya🎯
+## hello , this is lakshya🎯
 
 ## things i do
 
