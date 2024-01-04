@@ -8,9 +8,6 @@
 
 ## currently i'm working on
 
-## preparing for gsoc 2024
-* i'm actively preparing for google summer of code 2024 by learning java and working on relevant projects.
-
 
 ## things i did previously
 * completed several tasks under openwisp in gci'18
