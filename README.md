@@ -2,7 +2,7 @@
 
 ## things i do
 
-* freshman at international institute of information technology pursuing electronics and communication btech + ms
+* sophomore at international institute of information technology pursuing electronics and communication btech + ms
 * i occasionally sketch , paint , and post on [DeviantArt](https://www.deviantart.com/sigmalaksh)
 
 
