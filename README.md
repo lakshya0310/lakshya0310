@@ -9,7 +9,10 @@
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=lakshya0310&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 <a href=#><img src="contributions.svg"></a>
 
+<!--START_SECTION:activity-->
+
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_lakshya0310/count.svg" />
 </p>
+
