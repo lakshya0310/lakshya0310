@@ -12,14 +12,17 @@
 ## things i did previously
 * completed several tasks under openwisp in gci'18
 
-## my github stats
-<a href="http://www.github.com/lakshya0310"><img src="https://github-readme-stats.vercel.app/api?username=lakshya0310&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="lakshya0310's github stats" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=lakshya0310&theme=calm&hide_border=true&card_width=450)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya0310&theme=calm&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=blocage&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
-<!-- ## connect with me 
-<a href="https://www.linkedin.com/in/lakshya-jindal-031a52286" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/jindal10_jindal" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://instagram.com/laxyajindal_" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/6QzKhtx.png" width=40px height=40px title="source: imgur.com" /></a> --> 
-
-## profile views
-![Visitor Count](https://profile-counter.glitch.me/{lakshya0310}/count.svg)
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
