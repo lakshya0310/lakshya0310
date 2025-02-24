@@ -1,17 +1,3 @@
-## hello , this is lakshya🎯
-
-## things i do
-
-* sophomore at international institute of information technology pursuing electronics and communication btech + ms
-* i occasionally sketch , paint , and post on [DeviantArt](https://www.deviantart.com/sigmalaksh)
-
-
-## currently i'm working on
-
-
-## things i did previously
-* completed several tasks under openwisp in gci'18
-
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=lakshya0310&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
