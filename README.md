@@ -11,6 +11,8 @@
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_lakshya0310/count.svg" />
